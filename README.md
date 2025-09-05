@@ -6,7 +6,9 @@
 
 
 
-![14109600](https://github.com/user-attachments/assets/255afabc-ab46-4957-9ccd-65417cc6d94a)## About
+<h1 align="center">![67e437ea72dc17270017806dbfcd9ef9](https://github.com/user-attachments/assets/26385d88-af8d-416e-9d3f-208ebb483ef0)</h1>
+
+## About
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)
 
