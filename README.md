@@ -4,6 +4,12 @@
 <h1 align="center">
     <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
     <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
 </h1>
 ## About
 
