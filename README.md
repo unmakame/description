@@ -3,11 +3,9 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="original" style="display: inline; margin: 0; padding: 0;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="mirrored" style="transform: scaleX(-1); display: inline; margin: 0; padding: 0; margin-left: -4px;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="original" style="display: inline-block; margin: 0; vertical-align: middle;" />
+    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="mirrored" style="transform: scaleX(-1); display: inline-block; margin: 0; vertical-align: middle; margin-left: -4px;" />
 </h1>
-
-
 ## About
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)
