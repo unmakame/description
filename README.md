@@ -6,7 +6,10 @@
 
 
 
-<h1 align="center">![67e437ea72dc17270017806dbfcd9ef9](https://github.com/user-attachments/assets/26385d88-af8d-416e-9d3f-208ebb483ef0)</h1>
+<h1 align="center">
+    <img src="https://github.com/user-attachments/assets/26385d88-af8d-416e-9d3f-208ebb483ef0" alt="67e437ea72dc17270017806dbfcd9ef9" />
+</h1>
+
 
 ## About
 
