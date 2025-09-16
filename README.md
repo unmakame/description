@@ -9,8 +9,10 @@
 </h1>
 
 
+<h1 align="center">
+    <img src="https://github.com/user-attachments/assets/46d7e9e5-336f-4cc3-9fde-c18c8035d57f8" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
+</h1>
 
-![quentin-tarantino-doing-finger-gun-bcpl1a4b3jjoe3cf](https://github.com/user-attachments/assets/46d7e9e5-336f-4cc3-9fde-c18c8035d57f)
 
 
 
