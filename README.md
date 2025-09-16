@@ -6,9 +6,9 @@
         Hello I am Vladislav Baianov
     </span>
         Here you can see some of my skills 
-    </spam>
+    </span>
         (something in the process of being studied)
-    <\spam>
+    <\span>
      <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
    
 </h1>
