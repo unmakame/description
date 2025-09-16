@@ -2,15 +2,22 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="left eye" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 80px;" />
-    <img src="https://github.com/user-attachments/assets/9380aacb-3cce-426e-ace4-da0f9ea3527a" alt="right eye" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 80px;" />
+    <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 120px; border-radius: 15px;" />
+    
+    <span style="font-size: 3.5rem; font-weight: bold; color: #58a6ff; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);">
+        HELLO MY NAME IS VLADISLAV BAIANOV
+    </span>
+    
+    <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="right gif" style="transform: scaleX(-1); display: inline-block; margin-left: 50px; vertical-align: middle; width: 120px; border-radius: 15px;" />
 </h1>
+
+<h3 align="center" style="font-size: 1.8rem; color: #c9d1d9; margin-top: 20px;">
+    🚀 Full-Stack Developer | 💻 C++ Enthusiast | 🎨 Creative Coder
+</h3>
+
+<p align="center" style="font-size: 1.2rem; color: #8b949e; margin-top: 15px;">
+    Создаю крутые проекты и изучаю новые технологии каждый день!
+</p>
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)
