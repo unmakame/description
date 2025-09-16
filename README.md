@@ -12,6 +12,11 @@
 
 
 <h1 align="left">
+    <br><br><br><br><br>
+    <br><br><br><br><br>
+    <br><br><br><br><br>
+    <br><br><br><br><br>
+    <br><br><br><br><br>
     Here you can see some of my skills 
     </span>
 </h1>
