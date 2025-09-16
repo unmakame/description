@@ -2,10 +2,10 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 120px; border-radius: 15px;" />
+    <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
         Hello I am Vladislav Baianov
     </span>
-     <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 120px; border-radius: 15px;" />
+     <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
    
 </h1>
 
