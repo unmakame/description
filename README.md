@@ -7,7 +7,11 @@
     </span>
          <img src="https://github.com/user-attachments/assets/e153f02e-51c8-477b-8013-b1dbcc5fc9b8" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
 </h1>
-<h1 align="center">
+
+
+
+
+<h1 align="left">
     Here you can see some of my skills 
     </span>
 </h1>
@@ -15,7 +19,7 @@
 
 
         
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,py,cpp,cmake,github,linux,stackoverflow,vscode" />
   </a>
@@ -24,7 +28,7 @@
 
 
 </h1>
-<h1 align="center">
+<h1 align="left">
     <details>
         <summary><img src="https://github.com/user-attachments/assets/fab9acbb-e9c3-4e6c-9f1d-a033e8ee5299" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" /></summary>
         (something in the process of being studied)
