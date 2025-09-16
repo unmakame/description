@@ -23,7 +23,7 @@
 </h1>
 <h1 align="center">
     <details>
-        <summary>![14109600](https://github.com/user-attachments/assets/8c7a32b6-9c0a-4691-9f11-494eb7348aaf)</summary>
+        <summary><img src="https://github.com/user-attachments/assets/8c7a32b6-9c0a-4691-9f11-494eb7348aaf" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" /></summary>
         (something in the process of being studied)
     </details>
     </span>
