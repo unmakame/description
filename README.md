@@ -11,11 +11,7 @@
 
 
 
-<h1 align="left">
-    <br><br><br><br><br>
-    <br><br><br><br><br>
-    <br><br><br><br><br>
-    <br><br><br><br><br>
+<h1 align="center">
     <br><br><br><br><br>
     Here you can see some of my skills 
     </span>
@@ -24,7 +20,7 @@
 
 
         
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,py,cpp,cmake,github,linux,stackoverflow,vscode" />
   </a>
@@ -33,7 +29,7 @@
 
 
 </h1>
-<h1 align="left">
+<h1 align="center">
     <details>
         <summary><img src="https://github.com/user-attachments/assets/fab9acbb-e9c3-4e6c-9f1d-a033e8ee5299" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" /></summary>
         (something in the process of being studied)
