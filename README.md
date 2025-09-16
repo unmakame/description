@@ -12,6 +12,7 @@
 
 <p align="center">
     My Skills
+    </span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
