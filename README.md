@@ -10,8 +10,6 @@
 <h1 align="center">
     Here you can see some of my skills 
     </span>
-        (something in the process of being studied)
-    <\span>
 </h1>
     
 
