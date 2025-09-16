@@ -9,14 +9,12 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/46d7e9e5-336f-4cc3-9fde-c18c8035d57f8" style="display: inline-block; margin-right: 200px; vertical-align: middle; width: 500px; border-radius: 100px;" />
+    <img src="https://github.com/user-attachments/assets/46d7e9e5-336f-4cc3-9fde-c18c8035d57f8" style="display: inline-block; margin-right: 500px; vertical-align: middle; width: 1000px; border-radius: 500px;" />
 </h1>
 
 
-
-
 <h1 align="center">
-    <br><br>
+    <br>
     Here you can see some of my skills 
     </span>
 </h1>
