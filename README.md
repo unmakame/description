@@ -12,6 +12,16 @@
     </span>
 </h1>
     
+</h1>
+<h1 align="center">
+    <details>
+        <summary></summary>
+        (something in the process of being studied)
+    </details>
+    </span>
+</h1>
+        
+
 
 <p align="center">
   <a href="https://skillicons.dev">
