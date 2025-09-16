@@ -36,7 +36,13 @@
     </span>
 </h1>
 
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)
+
+<h1 align="left">
+    contacts
+    
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)    
+    </span>
+</h1>
 
 
 
