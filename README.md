@@ -3,19 +3,16 @@
 
 <h1 align="center">
     <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 120px; border-radius: 15px;" />
-        HELLO MY NAME IS VLADISLAV BAIANOV
+        Hello my im Vladislav Baianov
     </span>
      <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 120px; border-radius: 15px;" />
    
 </h1>
 
 <h3 align="center" style="font-size: 1.8rem; color: #c9d1d9; margin-top: 20px;">
-    🚀 Full-Stack Developer | 💻 C++ Enthusiast | 🎨 Creative Coder
+     undecided Developer | 💻 Learning C++, Python, C,| 🎨 Creative Coder
 </h3>
 
-<p align="center" style="font-size: 1.2rem; color: #8b949e; margin-top: 15px;">
-    Создаю крутые проекты и изучаю новые технологии каждый день!
-</p>
 
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)
