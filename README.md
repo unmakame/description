@@ -5,14 +5,16 @@
     <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
         Hello I am Vladislav Baianov
     </span>
+        Here you can see some of my skills 
+    </spam>
+        (something in the process of being studied)
+    <\spam>
      <img src="https://github.com/user-attachments/assets/2d8684da-c679-4a81-9003-72e2e542859f" alt="left gif" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
    
 </h1>
 
 
 <p align="center">
-        My Skills
-  </span>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
