@@ -12,7 +12,6 @@
     <img src="https://github.com/user-attachments/assets/46d7e9e5-336f-4cc3-9fde-c18c8035d57f8" style="display: inline-block; margin-right: 500px; vertical-align: middle; width: 1000px; border-radius: 500px;" />
 </h1>
 
-
 <h1 align="center">
     <br>
     Here you can see some of my skills 
@@ -20,8 +19,6 @@
 </h1>
 
 
-
-        
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,c,py,cpp,cmake,github,linux,stackoverflow,vscode" />
