@@ -15,7 +15,7 @@
         
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,c,github,linux,py" />
   </a>
 </p>
 
@@ -23,7 +23,8 @@
 </h1>
 <h1 align="center">
     <details>
-        <summary></summary>
+        <summary>![14109600](https://github.com/user-attachments/assets/8c7a32b6-9c0a-4691-9f11-494eb7348aaf)
+</summary>
         (something in the process of being studied)
     </details>
     </span>
