@@ -3,7 +3,7 @@
 
 <h1 align="center">
     <img src="https://github.com/user-attachments/assets/e153f02e-51c8-477b-8013-b1dbcc5fc9b8" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
-        👋 Hello, I'm Vladislav Baianov 
+        👋 Hello there
          <img src="https://github.com/user-attachments/assets/e153f02e-51c8-477b-8013-b1dbcc5fc9b8" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
 </h1>
 
