@@ -37,13 +37,6 @@
 </h1>
 
 
-<h1 align="left">
-    contacts
-    
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)    
-    </span>
-</h1>
-
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=0e75b6&title_color=0e75b6)
