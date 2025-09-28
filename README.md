@@ -46,19 +46,6 @@
 
 
 
-
-
-
-
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/gh/gh-username/unmakame?color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/unmakame?color=0e75b6&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/unmakame?color=0e75b6&style=flat-square" alt="Stars" />
-</p>
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=0e75b6&title_color=0e75b6)
 
 ### Most Used Languages
@@ -67,7 +54,12 @@
 
 
 
-
+<h1 align="left">
+    contacts
+    
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/unmakame)    
+    </span>
+</h1>
 
 
 
