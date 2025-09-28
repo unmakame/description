@@ -50,28 +50,20 @@
 
 
 
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unmakame&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=unmakame&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  </p>
-</details>
-
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmakame&count_private=true&show_icons=true)
+
+<p align="center">
+  <img src="https://komarev.com/gh/gh-username/unmakame?color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/unmakame?color=0e75b6&style=flat-square" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/unmakame?color=0e75b6&style=flat-square" alt="Stars" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmakame&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&text_color=ffffff&icon_color=0e75b6&title_color=0e75b6)
 
 ### Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unmakame&layout=compact)
 
-
-
-![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/unmakame/unmakame)
-
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unmakame&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=0e75b6)
 
 
 
