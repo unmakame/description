@@ -60,9 +60,15 @@
 </details>
 
 
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unmakame&count_private=true&show_icons=true)
+
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unmakame&layout=compact)
 
 
 
+![Profile Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/unmakame/unmakame)
 
 
 
