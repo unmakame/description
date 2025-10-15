@@ -2,14 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://github.com/user-attachments/assets/e153f02e-51c8-477b-8013-b1dbcc5fc9b8" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
-        👋 Hello there
-         <img src="https://github.com/user-attachments/assets/e153f02e-51c8-477b-8013-b1dbcc5fc9b8" style="display: inline-block; margin-right: 50px; vertical-align: middle; width: 90px; border-radius: 15px;" />
-</h1>
-
-
-<h1 align="center">
-    <img src="https://github.com/user-attachments/assets/46d7e9e5-336f-4cc3-9fde-c18c8035d57f8" style="display: inline-block; margin-right: 500px; vertical-align: middle; width: 1000px; border-radius: 500px;" />
+     👋 Hello there        
 </h1>
 
 <h1 align="center">
